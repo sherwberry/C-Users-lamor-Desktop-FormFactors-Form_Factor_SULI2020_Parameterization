@@ -1,22 +1,7 @@
 # SULI2020_Form_Factor_Parameterization
 These were made using the python libraries matplotlib to generate the graphs in Jupyter notebook.
 
-# The New Parameteriztion Plotted with Abbott Parameterization
-![G_C](https://github.com/sherwberry/C-Users-lamor-Desktop-FormFactors-Form_Factor_SULI2020_Parameterization/blob/master/output_files/g_c_parameterization.png)
-![G_Q](https://github.com/sherwberry/C-Users-lamor-Desktop-FormFactors-Form_Factor_SULI2020_Parameterization/blob/master/output_files/g_q_parameterization.png)
-![G_M](https://github.com/sherwberry/C-Users-lamor-Desktop-FormFactors-Form_Factor_SULI2020_Parameterization/blob/master/output_files/g_m_parameterization.png)
-
-# The New Parameteriztion Plotted with Abbott Parameterization Extended
-![G_C](https://github.com/sherwberry/C-Users-lamor-Desktop-FormFactors-Form_Factor_SULI2020_Parameterization/blob/master/output_files/g_c_parameterization_e.png)
-![G_Q](https://github.com/sherwberry/C-Users-lamor-Desktop-FormFactors-Form_Factor_SULI2020_Parameterization/blob/master/output_files/g_q_parameterization_e.png)
-![G_M](https://github.com/sherwberry/C-Users-lamor-Desktop-FormFactors-Form_Factor_SULI2020_Parameterization/blob/master/output_files/g_m_parameterization_e.png)
-
-# The Precent Difference of the New Parameteriztion Plotted with Respect to Abbott Parameterization
-![G_C](https://github.com/sherwberry/C-Users-lamor-Desktop-FormFactors-Form_Factor_SULI2020_Parameterization/blob/master/output_files/g_c_parameterization_pd.png)
-![G_Q](https://github.com/sherwberry/C-Users-lamor-Desktop-FormFactors-Form_Factor_SULI2020_Parameterization/blob/master/output_files/g_q_parameterization_pd.png)
-![G_M](https://github.com/sherwberry/C-Users-lamor-Desktop-FormFactors-Form_Factor_SULI2020_Parameterization/blob/master/output_files/g_m_parameterization_pd.png)
-
-# The Ratio of the New Parameteriztion Plotted with Respect to Abbott Parameterization
-![G_C](https://github.com/sherwberry/C-Users-lamor-Desktop-FormFactors-Form_Factor_SULI2020_Parameterization/blob/master/output_files/g_c_parameterization_r.png)
-![G_Q](https://github.com/sherwberry/C-Users-lamor-Desktop-FormFactors-Form_Factor_SULI2020_Parameterization/blob/master/output_files/g_q_parameterization_r.png)
-![G_M](https://github.com/sherwberry/C-Users-lamor-Desktop-FormFactors-Form_Factor_SULI2020_Parameterization/blob/master/output_files/g_m_parameterization_r.png)
+# The New Parameteriztion Plotted with Abbott I and II Parameterization
+![G_C](https://github.com/sherwberry/C-Users-lamor-Desktop-FormFactors-Form_Factor_SULI2020_Parameterization/blob/master/g_c_parameterization_weighted.png)
+![G_Q](https://github.com/sherwberry/C-Users-lamor-Desktop-FormFactors-Form_Factor_SULI2020_Parameterization/blob/master/g_q_parameterization_weighted.png)
+![G_M](https://github.com/sherwberry/C-Users-lamor-Desktop-FormFactors-Form_Factor_SULI2020_Parameterization/blob/master/g_m_parameterization_weighted.png)
