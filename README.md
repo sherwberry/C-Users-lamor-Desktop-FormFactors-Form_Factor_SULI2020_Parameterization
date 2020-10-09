@@ -1,4 +1,4 @@
-# Parameterization of the Deuteron Form Factors
+# Deuteron Form Factor Parameterization
 
 ## Introducton
 
