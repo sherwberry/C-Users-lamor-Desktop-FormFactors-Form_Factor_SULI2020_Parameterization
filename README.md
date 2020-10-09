@@ -12,4 +12,5 @@ The figures were made using the python matplotlib library in Jupyter notebook an
 ![G_M](https://github.com/sherwberry/C-Users-lamor-Desktop-FormFactors-Form_Factor_SULI2020_Parameterization/blob/master/g_m_parameterization_weighted.png)
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4057054.svg)](https://doi.org/10.5281/zenodo.4057054)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4074280.svg)](https://doi.org/10.5281/zenodo.4074280)
+
