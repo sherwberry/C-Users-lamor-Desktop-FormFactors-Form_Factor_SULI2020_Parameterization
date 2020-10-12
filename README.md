@@ -4,7 +4,7 @@
 
 This work was done as part of the 2020 DOE SULI program hosted remotely by Jefferson Lab.
 
-The figures were made using the python matplotlib library in Jupyter notebook and the Abbott parameterizations are from https://doi.org/10.1007/PL00013629
+The figures were made using the python matplotlib library in Jupyter notebook and the Abbott parameterizations [1].
 
 ## New Parameteriztion
 
@@ -23,7 +23,7 @@ Interestingly, just adding this constraint, makes a new function that, over the 
 
 ## References
 
-D. Abbott (Jefferson Lab) et al., Eur.Phys.J.A. 7 (2000) 421-427. <a href="http://doi.org/10.1007/PL00013629">DOI: 10.1007/PL00013629</a>
+[1] D. Abbott (Jefferson Lab) et al., Eur.Phys.J.A. 7 (2000) 421-427. <a href="http://doi.org/10.1007/PL00013629">DOI: 10.1007/PL00013629</a>
 
 ## Zenodo
 
