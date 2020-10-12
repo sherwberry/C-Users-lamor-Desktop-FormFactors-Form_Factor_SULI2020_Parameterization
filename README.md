@@ -20,4 +20,4 @@ rcalled Kiwi in the legends, plotted with Abbott I and II parameterizations
 
 ## References
 
-D. Abbott (Jefferson Lab) et al., Eur.Phys.J.A. 7 (2000) 421-427. <a href="dio.org/10.1007/PL00013629">DOI: 10.1007/PL00013629</a>
+D. Abbott (Jefferson Lab) et al., Eur.Phys.J.A. 7 (2000) 421-427. <a href="doi.org/10.1007/PL00013629">DOI: 10.1007/PL00013629</a>
